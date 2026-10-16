@@ -1,7 +1,7 @@
 
 ## Informe completo
 
-El informe detallado de esta actividad, con imágenes, capturas de ejecución y evidencias del proceso, se encuentra disponible en el siguiente documento:
+El informe detallado de esta actividad, con imágenes, capturas de ejecución y evidencias del proceso, se encuentra disponible en el siguiente documento, por facilidad se adjunta como pdf ya que no encontre la manera de adjuntar imagenes a un archivo .md:
 
 [Ver informe completo de pruebas unitarias (PDF)](informe/informe.pdf)
 
